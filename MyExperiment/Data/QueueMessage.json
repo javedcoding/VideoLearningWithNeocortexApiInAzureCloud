@@ -1,0 +1,17 @@
+{
+  "ExperimentId": "1",
+  "InputFileCircle": "circle.mp4",
+  "InputFileLine": "line.mp4",
+  "InputFileRectangle": "rectangle.mp4",
+  "InputFileTriangle": "triangle.mp4",
+  "InputFileVideoConfig": "videoConfig.json",
+  "InputFileHTMConfig": "htmConfig.json",
+  "InputTestCircleFile": "Circle_circle_10.png",
+  "InputTestLineFile": "Line_line_20.png",
+  "InputTestRectangleFile": "Rectangle_rectangle_1.png",
+  "InputTestTriangleFile": "Triangle_triangle_5.png",
+  "Description": "Cloud Computing Implementation",
+  "ProjectName": "ML21/22-Video Learning Project Migration",
+  "GroupName": "codebreakersmashnunul",
+  "Students": [ "mashnunul" ]
+}
